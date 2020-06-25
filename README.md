@@ -2,7 +2,7 @@
  Python password checker script
  
  ## Are you sure that your are using a safe password ? 
-  Anyway checking if you're right or wrong wont hurt your password :)
+  Anyway checking if you're right or wrong won't hurt your password :)
   
  ## script usage : 
   
@@ -13,4 +13,4 @@
   ### Inside the Script : 
   
   just replace this sys.argv[1:] with the password you wanna verify 
-  #### for example :  main('holla') 
+  #### for example :  main(['holla']) 
