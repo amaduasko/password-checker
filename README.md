@@ -12,5 +12,5 @@
   
   ### Inside the Script : 
   
-  just comment this [sys.exit(main(sys.argv[1:]))] and call the main function with the password you wanna verify 
+  just replace this sys.argv[1:] with the password you wanna verify 
   #### for example :  main('holla') 
